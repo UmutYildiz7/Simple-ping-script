@@ -1,4 +1,7 @@
 # Simple-ping-script
+
+4.Hafta Siber Güvenlik Projesi
+
 Arka planda sessizce ping işlemleri gerçekleştiren etkileşimli Bash ping aracı. - Interactive Bash ping tool that executes quiet ping operations in the background. 
 
 <img width="637" height="520" alt="Ekran görüntüsü 2026-10-16 163054" src="https://github.com/user-attachments/assets/d2fae7e2-1217-409c-a405-675f6072889d" />
